@@ -1,1 +1,0 @@
-{    "name": "بوت",    "description": "....",    "api_id": {            "description": "ضع هنا كود الايبي ايدي",            "required": true        },           "api_hash": {            "description": "ضع هنا كود الايبي هاش",            "required": true     }
